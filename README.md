@@ -2,7 +2,7 @@
 Tools
 SQL- Data Analysis
 Power BI - Data Visualization
-Excel - Data transformation and cleaning
+Power Query = Data Cleaning
 Data Cleaning/Preparation
 In the initial data preparation phase, i performed the following task:
 
