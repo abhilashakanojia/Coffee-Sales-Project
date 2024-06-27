@@ -1,7 +1,7 @@
 # Coffee-Sales-Project
 Tools
-PostgreSQL- Data Analysis
-Tableau - Data Visualization
+SQL- Data Analysis
+Power BI - Data Visualization
 Excel - Data transformation and cleaning
 Data Cleaning/Preparation
 In the initial data preparation phase, i performed the following task:
